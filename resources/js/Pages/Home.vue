@@ -1,12 +1,11 @@
 <template>
-  	<div id="app">
-    	<router-view></router-view>
-  	</div>
+<div>
+	<h1> HOME </h1>
+</div>
 </template>
 
 <script>
 export default {
-	name: 'App',
 	data () {
 		return {
 
@@ -15,6 +14,6 @@ export default {
 
 	methods: {
 
-	},
-}
+	}
+}	
 </script>
